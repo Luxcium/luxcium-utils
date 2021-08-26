@@ -12,6 +12,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ALL OR ANY KIND, EXPRESSED
 
 Theses files are *not* fit for any particular purpose in it's current form theses files have not been  testet or run yet in all or any environements! **Do not** run theses files unless you have reviewed the full content and take full resposability of any probleme it may cause to you (or anyone) or your machine (or any machine).
 
+You must report any security problems or vulnerability on the [luxcium-utils issues](https://github.com/Luxcium/luxcium-utils/issues/) page of the official repo site.
+
 ## **NO** PERMISSION ARE GRANTED FOR THIS SOFTWARE
 
     1) NOT TO PUBLISH;
